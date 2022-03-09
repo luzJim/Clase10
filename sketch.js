@@ -1,0 +1,1 @@
+console.log("No tengo amigos, tengo familia")
